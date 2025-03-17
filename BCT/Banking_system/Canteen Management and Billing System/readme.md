@@ -24,4 +24,5 @@ In a fast-paced environment like a canteen, manually managing orders and bills i
 - **Development Environment:** Code::Blocks / VS CODE
 - **Libraries Used:** Standard C libraries for file handling, struct-based data management
 
-## 🙌 Acknowledgments
+## How to use the program
+-Open the main.c file along with canteen.txt in your C compiler and run it
